@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [NTT Data](https://www.nttdata.com/global/en/)
+- 🔭 I’m currently working on [Amadeus](https://www.nttdata.com/global/en/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/volkangurenekli](https://github.com/volkangurenekli)
 
