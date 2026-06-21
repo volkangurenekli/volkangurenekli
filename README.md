@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/volkangurenekli](https://github.com/volkangurenekli)
 
-- 📝 I regularly write articles on [https://volcanify.com](https://volcanify.com)
+- 📝 I regularly write articles on [https://volkan.app](https://volkan.app)
 
 - 💬 Ask me about **react typescript jest nodejs expressjs mongodb graphql**
 
